@@ -57,7 +57,7 @@
 
 ### 📫 Let's Connect!
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-pratap-singh-25112a234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
