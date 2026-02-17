@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **mrakshay124@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VwCARcsNoO-9w-CKH4aSHzfw_daUdpiN/view?usp=drivesdk](https://drive.google.com/file/d/1VwCARcsNoO-9w-CKH4aSHzfw_daUdpiN/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akshay-pratap-singh-25112a234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
