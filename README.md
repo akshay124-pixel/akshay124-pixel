@@ -72,23 +72,23 @@ Building scalable web applications, modern backend systems, cloud-native solutio
 
 ### DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=transparent)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=transparent)
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logoColor=transparent)
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logoColor=transparent)
 
 ![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logoColor=transparent)
 
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logoColor=transparent)
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=transparent)
 
 ---
 
