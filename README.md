@@ -126,14 +126,6 @@ https://github.com/akshay124-pixel
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshay124-pixel&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay124-pixel&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay124-pixel&theme=tokyonight"/>
 
 </p>
