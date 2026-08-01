@@ -34,25 +34,25 @@ Building scalable web applications, modern backend systems, cloud-native solutio
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logoColor=transparent)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logoColor=transparent)
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logoColor=transparent)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logoColor=transparent)
 
 ---
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=transparent)
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logoColor=transparent)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=transparent)
 
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
@@ -60,15 +60,13 @@ Building scalable web applications, modern backend systems, cloud-native solutio
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logoColor=transparent)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logoColor=transparent)
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logoColor=transparent)
 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
----
 
 ### DevOps & Cloud
 
