@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Pratap Singh</h1>
-<h3 align="center">A passionate Full Stack MERN Developer & AI Automation Builder from India</h3>
+<h3 align="center">A passionate Full Stack Developer & AI Automation Builder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay124-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="akshay124-pixel" /> </p>
 
